@@ -42,10 +42,6 @@ p{
     padding-left: 15%;
     padding-top: 10%;
 }
-#movie-part{
-    text-align: center;
-    color: red;
-}
 .bottom{
     background-image: url(images/bg.png);
     background-repeat: no-repeat;
