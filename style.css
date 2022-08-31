@@ -1,0 +1,78 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 2em;
+}
+.color-red{
+    color: red;
+}
+section{
+    display: flex;
+}
+p{
+    text-align: justify;
+}
+.top{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+.divided{
+    width: 100% ;
+    padding-left: 55px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 55px;
+}
+#chris-evans{
+  padding-top: 5%;
+  padding-left: 5%;
+}
+.link-button{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(45deg,cyan,navy);
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+#captain-america-1{
+    padding-left: 15%;
+    padding-top: 10%;
+}
+#movie-part{
+    text-align: center;
+    color: red;
+}
+.bottom{
+    background-image: url(images/bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.movie{
+    width:100%;
+    padding: 40px;
+    margin: 20px;
+    margin-bottom: 150px;
+    box-shadow: 10px 10px 40px gray;
+}
+#movie-no-1{
+    border-left: 7px solid blue;
+}
+#movie-no-2{
+    border-left: 7px solid red;
+}
+#movie-no-3{
+    border-left: 7px solid green;
+}
+.imdb{
+    background-color: yellow;
+    padding: 1px 7px;
+    border-radius: 8px;
+}
+.copyright{
+    text-align: center;
+    color: gray;
+}
