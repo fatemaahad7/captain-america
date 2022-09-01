@@ -26,6 +26,10 @@ p{
     padding-top: 10px;
     padding-bottom: 55px;
 }
+.name{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: navy;
+}
 #chris-evans{
   padding-top: 5%;
   padding-left: 5%;
