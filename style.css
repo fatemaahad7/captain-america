@@ -58,7 +58,9 @@ p{
     border-left: 7px solid blue;
 }
 #movie-no-2{
-    border-left: 7px solid red;
+    border-left: 7px solid;
+    border-image: linear-gradient(red,gold);
+    border-image-slice: 1;
 }
 #movie-no-3{
     border-left: 7px solid green;
@@ -68,7 +70,7 @@ p{
     padding: 1px 7px;
     border-radius: 8px;
 }
-.copyright{
+footer p{
     text-align: center;
     color: gray;
 }
